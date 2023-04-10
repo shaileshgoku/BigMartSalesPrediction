@@ -1,0 +1,1 @@
+# code from data_ingestion, data_transformation, model_trainer are triggered here for the purpose of feeding the data inside the model
